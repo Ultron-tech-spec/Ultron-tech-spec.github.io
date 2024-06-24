@@ -22,6 +22,7 @@ nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
+
 /****-----start-body----****/
 body{
 	background:#eee;
@@ -57,7 +58,6 @@ body{
 	margin:15px 3px;
 	color:#3F3D3D;
 }
-
 .left-form,.right-form{
 	float:left;
 	margin:22px 28px;
@@ -112,11 +112,12 @@ form{
 }
 .icon
 {
-
 	background:url(../images/spirit.png)  no-repeat;
 	display: block;
 	float: center;
 	margin: 20px 20px 20px 20px;
+/*	width:70%;*/
+/*	height: 70%;*/
 }
 .ticker{
 	background:url(../images/spirit.png)  no-repeat 0px 0px;
